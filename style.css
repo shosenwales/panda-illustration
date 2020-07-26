@@ -283,4 +283,10 @@ a{
         margin-top: 10px;
         margin-bottom: 14px;
     }
+
+    .nav .links a{
+        margin-right: 25px;
+        font-size: 12px;
+        font-weight: 600;
+    }
 }
